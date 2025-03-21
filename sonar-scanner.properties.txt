@@ -8,4 +8,4 @@ sonar.sources=src
 sonar.java.binaries=target/classes
 
 sonar.host.url=http://localhost:9000
-sonar.login=sqp_81c53a2cad711fb2f29d8ef82e3525fbc3fd6211
+sonar.login=sqp_0f7b76adba836d0fd74403720ddb0dd6e12e6eb6
