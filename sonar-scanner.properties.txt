@@ -1,11 +1,2 @@
 sonar.projectKey=test
-sonar.projectKey=test
 
-sonar.projectName=Название вашего проекта
-sonar.projectVersion=1.0
-
-sonar.sources=src
-sonar.java.binaries=target/classes
-
-sonar.host.url=http://localhost:9000
-sonar.login=sqp_0f7b76adba836d0fd74403720ddb0dd6e12e6eb6
