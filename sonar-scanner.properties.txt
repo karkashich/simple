@@ -1,2 +1,1 @@
 sonar.projectKey=test
-sonar.javaHome=/usr/lib/jvm/jdk-18
